@@ -1,0 +1,17 @@
+//  清除浮动
+.clearfix() {
+  *zoom: 1;
+  &:after {
+      display: block;
+      clear: both;
+      height: 0;
+      content: '\200B';
+  }
+}
+
+//  单行溢出截断 ...
+.txto() {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
