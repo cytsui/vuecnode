@@ -1,6 +1,6 @@
 # vuecnode
 
-> A Vue.js project
+> 基于[cnode](https://cnodejs.org/) 的API，vue + vuex + vue-router + es6/es7
 
 ## Build Setup
 
