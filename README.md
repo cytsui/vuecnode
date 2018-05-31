@@ -27,3 +27,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ### master commit 2
 
 ### develop 分支
+
+#### develop commit 1
