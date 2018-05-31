@@ -24,6 +24,14 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ### master commit 1
 
+### master commit 2
+
+### develop 分支
+
+#### develop commit 1
+
+#### develop commit 2
+
 #### feature A
 
 feature A 开发完毕。
