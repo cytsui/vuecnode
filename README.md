@@ -33,3 +33,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 #### develop commit 2
 
 ### master 删除 feature A
+
+### master commit 3
