@@ -35,3 +35,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ### master 删除 feature A
 
 ### master commit 3
+
+#### feature B
+
+feature B 开发。
