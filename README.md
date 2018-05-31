@@ -39,3 +39,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 #### feature B
 
 feature B 开发。
+feature B 开发完毕。
