@@ -18,7 +18,7 @@
               <div class="cinput">
                 <input type="text" placeholder="输入accessToken登录" v-model="atk">
               </div>
-              <p class="sign-in-tips">问题：如何获取 accessToken？ 用户登录后，在设置页面可以看到自己的 accessToken。</p>
+              <p class="sign-in-tips">问题：如何获取 accessToken？ 用户登录cnode后，在设置页面可以看到自己的 accessToken。快速登录：cb382618-a01a-47cd-a5ef-e3c9ccd425d1</p>
             </div>
 
             <div class="sign-in-bar">
